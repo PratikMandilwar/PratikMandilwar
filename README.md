@@ -1,10 +1,8 @@
 - 👋 Hi, I’m @PratikMandilwar
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Tech
+- 🌱 I’m currently pursuing BTech
 
-<!---
-PratikMandilwar/PratikMandilwar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=PratikMandilwar&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=PratikMandilwar&theme=tokyonight" />
+</p>
